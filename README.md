@@ -76,6 +76,7 @@ The project uses transfer learning:
 • Training and validation accuracy and loss curves were plotted to analyze the learning progress of the model.
 
 Results
+
 • Training Accuracy: 97.68%
 
 • Validation Accuracy: 85.60%
@@ -84,6 +85,7 @@ Results
 
 
 Technologies
+
 • TensorFlow/Keras
 
 • Python
