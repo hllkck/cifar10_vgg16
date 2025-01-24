@@ -1,4 +1,4 @@
-CIFAR-10 Image Classification Model
+CIFAR-10 Image Classification Model-VGG16
 
 I developed this project to perform image classification using CIFAR-10 dataset. I used transfer learning with pre-trained VGG16 model and enriched it with custom layers. Below is a detailed description of my project.
 
