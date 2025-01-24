@@ -1,5 +1,5 @@
 CIFAR-10 Image Classification Model
-This project is developed to perform image classification using CIFAR-10 dataset. I used transfer learning with pre-trained VGG16 model and enriched it with custom layers. Below is a detailed description of my project.
+I developed this project to perform image classification using CIFAR-10 dataset. I used transfer learning with pre-trained VGG16 model and enriched it with custom layers. Below is a detailed description of my project.
 
 Project Purpose
 The purpose of this project is to create a deep learning based classification model to classify images in CIFAR-10 dataset into 10 distinct classes:
